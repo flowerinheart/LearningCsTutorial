@@ -36,9 +36,11 @@
 * [更多](https://www.zhihu.com/question/20784282)
 
 
+
 3. 基础能力训练
 
     刚刚接触编程的同学往往都会感觉找不到思路，机试的时候无比痛苦，这是因为我们缺少一门入门的导论以及缺少相应的锻炼，下面推荐一些mooc课程和练习网站.
+
 * 如果你英文好那么standford的这门公开课很适合你[ICS](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * 如果你你英文比较渣，那么记住后面的日子一定要努力把这块填上，听和读为首要，说为其次,网易公开课上翻译过的M的这门课适合你[编程方法学](http://v.163.com/special/programming/)，这门课程采用java教学,哈佛大学的这门课[计算机科学导论](http://open.163.com/special/opencourse/cs50.html)采用c语言，两门课选择一个.
 * 如果你需要每天锻炼自己的编程，在机试时让其他人只能望着你那潇洒的背影，那么这两个网站(中文和英文)适合你,[计蒜客](https://nanti.jisuanke.com/),[codecademy](https://www.codecademy.com/),如果这两个网站已经不能满足你了，那么[codevs](http://codevs.cn/problemset/),[topcoder](http://codevs.cn/problemset/)更适合你
