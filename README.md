@@ -22,10 +22,12 @@
 
 
 1. GFW和翻墙
+
     计算机行业是个迅速发展，高速进步的行业，所以学校里交的东西往往和业界流行先进的方法和理念有些许差距，但是互联网能够尽可能的消除这之间的差距，所以我们要善于利用这个工具，但是能因为一些特殊原因我们不得不面对GFW，这使得互联网帮助我们学习的能力大打折扣，解决这个问题的方法是采用VPN或者自己搭建shadowsocks服务器，如果你比较懒的话，就直接选择付费的[VPN](https://bestvpnchina.net/%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BF%BB%E5%A2%99vpn%E6%8E%A8%E8%8D%90/)，如果你是一个爱动手的童鞋，那么下面的教程是为你准备的:[]shadowsocks搭建教程](http://shadowsocks.blogspot.com/)
 
 
 2. 值得关注的网站
+
     下面推荐的网站都是你在将来的计算机生涯中都需要频繁使用到的:
         * [github](https://www.github.com)    全球最大的同性交友网站，咳咳，正经点，只是个玩笑，这个网站是全球最大的开源项目托管网站，在这边你可以见识到各种强大神奇的项目和各路大神，比如今年google做的alphaGo就有个开源版本betaGo托管在github上．下面这个[教程](https://github.com/phodal/github-roam)进入github的世界．
         * [stackoverflow](http://stackoverflow.com/)    全球最大的编程问答网站.
@@ -34,6 +36,7 @@
 
 
 3. 基础能力训练
+
     刚刚接触编程的同学往往都会感觉找不到思路，机试的时候无比痛苦，这是因为我们缺少一门入门的导论以及缺少相应的锻炼，下面推荐一些mooc课程和练习网站.
     * 如果你英文好那么standford的这门公开课很适合你[ICS](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
     * 如果你你英文比较渣，那么记住后面的日子一定要努力把这块填上，听和读为首要，说为其次,网易公开课上翻译过的M的这门课适合你[编程方法学](http://v.163.com/special/programming/)，这门课程采用java教学,哈佛大学的这门课[计算机科学导论](http://open.163.com/special/opencourse/cs50.html)采用c语言，两门课选择一个.
